@@ -1,8 +1,6 @@
 # HCI-Assignment
 
-<<<<<<< HEAD
-# HCI-Assignment
-=======
+
 # Hello World with OpenAI API
 
 ## Overview
